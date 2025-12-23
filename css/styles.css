@@ -314,7 +314,7 @@ body {
     width: 200%;
 
     background-image:
- url('/img/cloud_string.png');
+ url('img/cloud_string.png');
 
     background-repeat: repeat-x;
     background-size: auto 100%, 1320px 100%;
@@ -1343,3 +1343,4 @@ body {
 
 
 }
+
